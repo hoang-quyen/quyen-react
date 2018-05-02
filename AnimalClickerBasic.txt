@@ -1,0 +1,8 @@
+Hiện 1 con thú ra màn hình.
+Khi người dùng click vào con thú thì lượt click của con thú sẽ tăng lên 1.
+* Kiến thức cần phải nghiên cứu:
+1. Cách cài đặt nodejs
+2. Cách cài đặt Reactjs => https://thienanblog.com/javascript/reactjs/tim-hieu-reactjs/.
+3. Component trong Reactjs là gì: 
+  + https://thienanblog.com/javascript/reactjs/tim-hieu-component-trong-reactjs
+  + https://viblo.asia/p/reactjs-bai-2-component-props-state-07LKXYLkZV4
